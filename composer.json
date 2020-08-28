@@ -1,12 +1,12 @@
 {
-  "name": "fenxiangpaomo/laravel5-psf",
+  "name": "littlestarsx/laravel5-psf",
   "description": "laravel psf client",
   "keywords": ["psf", "notification", "laravel", "php"],
-  "homepage": "https://github.com/fenxiangpaomo/laravel5-psf",
+  "homepage": "https://github.com/littlestarsx/laravel5-psf",
   "authors": [
     {
-      "name": "LoneStorm",
-      "email": "LoneStorm@fx.com"
+      "name": "littlestarsx",
+      "email": "littlestarsx@fx.com"
     }
   ],
   "type": "library",
