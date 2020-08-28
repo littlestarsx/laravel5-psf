@@ -7,7 +7,7 @@ psf client for Laravel 5
 1. 安装包文件
 
   ```shell
-  composer require "fenxiangpaomo/laravel5-psf:dev-master"
+  composer require "littlestarsx/laravel5-psf:dev-master"
   ```
 
 ## 配置
