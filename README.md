@@ -46,7 +46,7 @@ psf client for Laravel 5
 
 namespace App\Http\Controllers;
 
-use Psf\Laravel\Psf 
+use Psf\Laravel\Psf; 
 
 class WechatController extends Controller
 {
